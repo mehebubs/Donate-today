@@ -144,18 +144,22 @@ p {
 
 .flexible-container {
     display: flex;
+    margin: 10%;
 }
 
 .half-width-2 {
     width: 80%;
+
+}
+
+.image-pad {
+    width: 90%;
+    border-radius: 5px;
     margin-left: 10%;
 }
 
-.half-width-2 img {
-    width: 500px;
-    padding-top: 50px;
-    padding-left: 20px;
-}
+
+
 
 .button-3 {
     text-decoration: none;
