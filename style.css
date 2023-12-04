@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0%;
+    background-color: ghostwhite;
 }
 
 .size {
@@ -192,4 +193,11 @@ p {
     border-radius: 5px;
     margin-top: 10%;
     height: 300px;
+}
+
+.align {
+
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
 }
