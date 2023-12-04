@@ -154,8 +154,12 @@ p {
 
 .flexible-container {
     display: flex;
-    margin: 10%;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    margin-right: 20%;
 }
+
 
 .half-width-2 {
     width: 80%;
@@ -166,14 +170,17 @@ p {
     width: 90%;
     border-radius: 5px;
     margin-left: 10%;
-    margin-top: 5%;
-    height: 400px;
+    margin-top: 10%;
+    height: 300px;
 }
 
 
 .flexible-container-2 {
     display: flex;
-    margin: 10%;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    margin-right: 20%;
 }
 
 .half-width-3 {
@@ -183,6 +190,6 @@ p {
 .image-pad-2 {
     width: 90%;
     border-radius: 5px;
-    margin-top: 5%;
-    height: 400px;
+    margin-top: 10%;
+    height: 300px;
 }
