@@ -192,3 +192,30 @@ p {
     text-align: center;
     margin-left: 25%;
 }
+
+.center {
+    text-align: center;
+    margin-top: 7%;
+    padding-top: 15px;
+    padding-bottom: 45px;
+    background-color: rgb(7, 7, 28);
+    border: 1px solid rgb(7, 7, 28);
+    line-height: 1cap;
+}
+
+.big {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.color {
+    color: rgba(255, 86, 71, 0.329);
+}
+
+.bright {
+    color: rgb(255, 86, 71);
+}
+
+small {
+    color: gray;
+}
