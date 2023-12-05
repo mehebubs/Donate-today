@@ -212,7 +212,7 @@ p {
 .width-4 {
     width: 50%;
     padding-left: 25%;
-
+    line-height: .5;
 }
 
 .color {
