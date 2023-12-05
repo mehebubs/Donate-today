@@ -118,6 +118,7 @@ p {
 
 .border-1 {
     background-color: rgba(135, 207, 235, 0.151);
+    width: 100%;
     border-radius: 4px;
     padding-left: 2%;
     padding-right: 3%;
@@ -127,6 +128,7 @@ p {
 
 .border-2 {
     background-color: rgba(255, 182, 193, 0.24);
+    width: 100%;
     border-radius: 4px;
     padding-left: 2%;
     padding-right: 3%;
@@ -136,6 +138,7 @@ p {
 
 .border-3 {
     background-color: rgba(245, 235, 170, 0.543);
+    width: 100%;
     border-radius: 4px;
     padding-left: 2%;
     padding-right: 3%;
