@@ -200,7 +200,7 @@ p {
     padding-bottom: 45px;
     background-color: rgb(7, 7, 28);
     border: 1px solid rgb(7, 7, 28);
-    line-height: 1cap;
+
 }
 
 .big {
@@ -210,12 +210,15 @@ p {
 
 .color {
     color: rgba(255, 86, 71, 0.329);
+
 }
 
 .bright {
     color: rgb(255, 86, 71);
+
 }
 
-small {
+.small-2 {
     color: gray;
+
 }
