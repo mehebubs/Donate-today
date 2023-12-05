@@ -200,31 +200,22 @@ p {
     padding-bottom: 45px;
     background-color: rgb(7, 7, 28);
     border: 1px solid rgb(7, 7, 28);
-
+    line-height: 1cap;
 }
 
 .big {
     font-size: 30px;
     font-weight: 600;
-
 }
 
 .color {
     color: rgba(255, 86, 71, 0.329);
-
 }
 
 .bright {
     color: rgb(255, 86, 71);
-
 }
 
-.width-4 {
-    width: 50%;
-}
-
-.small-2 {
+small {
     color: gray;
-    padding: 0cap;
-
 }
