@@ -206,6 +206,7 @@ p {
 .big {
     font-size: 30px;
     font-weight: 600;
+
 }
 
 .color {
@@ -216,6 +217,10 @@ p {
 .bright {
     color: rgb(255, 86, 71);
 
+}
+
+.width-4 {
+    width: 50%;
 }
 
 .small-2 {
